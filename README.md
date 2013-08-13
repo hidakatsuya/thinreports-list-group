@@ -12,3 +12,6 @@ Then, execute people.rb:
 
 Please see people.pdf.
 
+## Result PDF
+
+![Result PDF](https://raw.github.com/hidakatsuya/thinreports-list-group/master/result-pdf.png)
