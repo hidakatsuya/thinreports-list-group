@@ -12,6 +12,11 @@ Then, execute people.rb:
 
 Please see people.pdf.
 
+## Requirements
+
+  * Ruby > 1.9
+  * ThinReports >= 0.7.5
+
 ## Result PDF
 
 ![Result PDF](https://raw.github.com/hidakatsuya/thinreports-list-group/master/result-pdf.png)
