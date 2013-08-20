@@ -1,6 +1,6 @@
 # Sample: List Group using ThinReports
 
-## How it work
+## How to run
 
 Install ThinReports:
 
