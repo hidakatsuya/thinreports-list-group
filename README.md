@@ -1,5 +1,11 @@
 # Sample: List Group using ThinReports
 
+---
+
+This repository is no longer updated. Already merged to [thinreports/thinreports-examples](https://github.com/thinreports/thinreports-examples/tree/master/list)
+
+---
+
 ## How to run
 
 Install ThinReports:
